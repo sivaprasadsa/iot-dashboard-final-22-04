@@ -1,2 +1,2 @@
 # iot-dashboard-final-22-04
-Chart section moved tonavigation bar
+Chart section moved to navigation bar
